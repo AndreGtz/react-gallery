@@ -943,7 +943,7 @@ dl {
     line-height: 3em;
     color: #0c8ad4;
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 18.6em;
+    font-size: inherit;
     cursor: default; }
     #navigator h1 a {
       font-size: 1.25em; }
